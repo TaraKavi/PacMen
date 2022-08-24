@@ -39,17 +39,17 @@
 
 <br>
 
-## :&#9824: Description ##
+## :&#9824;: Description ##
 
 This project, the PacMen factory is an exercise from week 7 of the MITxPro Certificate where you can create as many pacmen as you like by clicking a button, and with the Start Game button you make them move throughout the screen.
 
-## :&#9824: Roadmap ##
+## :&#9824;: Roadmap ##
 
 :heavy_check_mark: Changed the background color and the size.
 :heavy_check_mark: Would like to put an image for the background.
 :heavy_check_mark: Would like to try with different images other than Pacman.
 
-## :&#9824: Technologies ##
+## :&#9824;: Technologies ##
 
 The following tools were used in this project:
 
@@ -57,12 +57,12 @@ The following tools were used in this project:
 - HTML
 - CSS
 
-## :&#9824: Requirements ##
+## :&#9824;: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 
-## :&#9824: Starting ##
+## :&#9824;: Starting ##
 
 ```bash
 # Clone this project
@@ -80,7 +80,7 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :&#9824: License ##
+## :&#9824;: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
